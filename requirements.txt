@@ -1,0 +1,16 @@
+jupyter
+transformers
+torch
+torchvision
+panel
+jupyter
+numpy
+hvplot
+bokeh
+scikit-learn
+geopandas
+contextily
+matplotlib
+folium
+bokeh
+rasterio
