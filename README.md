@@ -1,13 +1,13 @@
 # **Land Cover Monitor System**
 
-This repository contains all the scripts and resources used in the development of the **Land Cover Monitor System**, including both the **model training pipeline** and the **user interface application**.
+This repository contains all the scripts and resources used in the development of the **Land Cover Monitor System**, including both the **model training** and the **user interface application**.
 
 ---
 
 ## **Repository Structure**
 
 - **`User Interface - Landcover-Monitor/`**  
-  Contains the fully developed application, ready for deployment.  
+  Contains the developed application, ready for deployment.  
   For detailed deployment instructions, please refer to **Appendix D** of the main report.
 
 - **`Scripts/`**  
@@ -39,7 +39,7 @@ This repository contains all the scripts and resources used in the development o
 
 ## **Acknowledgement of External Libraries**
 
-This project utilises several open-source Python libraries. I acknowledge and thank the developers and maintainers of the following key packages:
+This project utilises several open-source Python libraries. I thank the developers and maintainers of the following key packages:
 
 ### **Machine Learning & Deep Learning**
 - **PyTorch** (`torch`, `torch.nn`, `torch.utils.data`) – Used for building, training, and evaluating deep learning models.
