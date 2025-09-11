@@ -1,6 +1,7 @@
 # Train Script
 """
 Train a models, My main script
+A version of the script is implemented on notebook on the root folder of the repo
 """
 import os
 import torch
