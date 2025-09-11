@@ -7,7 +7,7 @@ This repository contains all the scripts and resources used in the development o
 ## **Repository Structure**
 
 - **`User Interface - Landcover-Monitor/`**  
-  Contains the developed application, ready for deployment.  
+  (ZIP)Contains the developed application, ready for deployment.  
   For detailed deployment instructions, please refer to Appendix A of the main report.
 
 - **`Scripts/`**  
