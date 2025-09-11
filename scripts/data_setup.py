@@ -1,7 +1,7 @@
 """
 Creating Datalaoder for classification (recives the path of the dataset
 create the dataset randomly sleet the dataset and returns the datalaoders
-as wee as class names)
+as well as class names)
 """
 import os, torch
 from  torchvision import datasets, transforms
