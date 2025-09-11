@@ -1,5 +1,5 @@
 """
-Contain functions to see, save and laod and so on
+Contain functions to see, save and laod and plot train test curves, make random prediction etc
 """
 import torch
 import torchvision
