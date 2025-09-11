@@ -1,3 +1,7 @@
+"""
+Script containing the model M1-VGG implementation
+"""
+
 import torch
 from torch import nn
 
